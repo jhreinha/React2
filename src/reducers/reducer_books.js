@@ -1,8 +1,8 @@
 export default function() {
     return [
-        { title: 'someshit' },
-        { title: 'someshit2' },
-        { title: 'someshit3' },
-        { title: 'someshit4' }
+        { title: 'someshit', pages: 5 },
+        { title: 'someshit2', pages: 52 },
+        { title: 'someshit3', pages: 5 },
+        { title: 'someshit4', pages: 51 }
     ]
 }
